@@ -11,9 +11,9 @@
 # Docs: https://redefine-docs.ohevan.com/basic/info
 info:
   # Site title
-  title: Theme ssss
+  title: Jack's Blog
   # Author name
-  author: The Redefine Team
+  author: Jack Liu
   # Site URL
   url: https://redefine.ohevan.com
 # BASIC INFORMATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
@@ -23,11 +23,11 @@ info:
 # Docs: https://redefine-docs.ohevan.com/basic/defaults
 defaults:
   # Favicon
-  favicon: /images/redefine-favicon.svg
+  favicon: /images/logo.png
   # Site logo
   logo: 
   # Site avatar
-  avatar: /images/redefine-avatar.svg
+  avatar: /images/avatar.jpg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -114,7 +114,7 @@ home_banner:
     light: /images/clay-banks.jpg # light mode
     dark: /images/clay-banks.jpg # dark mode
   # Home banner title
-  title: Theme test
+  title: 程式人生
   # Home banner subtitle
   subtitle:
     text: [] # subtitle text, array
