@@ -5,8 +5,6 @@ date: '2021-08-24T12:11:14.736Z'
 categories: []
 thumbnail: ./../images/1____IgEi8FRlR9scHfR5O__1ZA.png
 keywords: []
-slug: >-
-  /@jackliu-61470/%E5%89%8D%E7%AB%AF-js-%E7%86%B1%E9%96%80%E9%9D%A2%E8%A9%A6%E8%80%83%E9%A1%8C%E8%A7%A3%E6%9E%90-%E4%B8%80-event-loop-%E6%98%AF%E4%BB%80%E9%BA%BC-be367e7fa7be
 ---
 
 前端 JS 熱門面試考題解析（一） — Event Loop 是什麼？

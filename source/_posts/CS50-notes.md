@@ -6,8 +6,6 @@ description: >-
 date: '2021-06-13T22:58:55.316Z'
 categories: []
 keywords: []
-slug: >-
-  /@jackliu-61470/cs50-notes-how-does-a-computer-communicate-actually-cb7a4473cb34
 ---
 
 ![](C:\Users\s6263\OneDrive\桌面\medium\posts\md_1709892859090\img\1__zzqrWO__9wJEApG__DityUow.jpeg)
